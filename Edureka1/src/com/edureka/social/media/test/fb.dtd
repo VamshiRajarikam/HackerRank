@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE FacebookUser
+
+[
+	<!ELEMENT FacebookUser (Vamshi)>
+	<!ELEMENT Vamshi (name,age)>
+	<!ELEMENT name (#PCDATA)>
+	<!ELEMENT age (#PCDATA)>
+]
